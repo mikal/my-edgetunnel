@@ -1,6 +1,6 @@
 
 import { connect } from 'cloudflare:sockets';
-
+// This my version
 let userID = '';
 let proxyIP = '';
 let sub = '';
